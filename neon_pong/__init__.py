@@ -1,0 +1,1 @@
+"""Neon Pulse Pong package."""

@@ -1,0 +1,12 @@
+{
+  "resolution_index": 3,
+  "fullscreen": true,
+  "fps_limit": 240,
+  "music_volume": 0.5,
+  "sfx_volume": 0.75,
+  "glow_intensity": 0.25,
+  "winning_score": 5,
+  "vsync": false,
+  "show_fps": true,
+  "show_ball_speed": true
+}
